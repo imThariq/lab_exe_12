@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SquareAreaDemo {
+class SquareAreaDemo {
 
 	public static void main(String[] args) {
 		System.out.println("Enter Side of Square:");
